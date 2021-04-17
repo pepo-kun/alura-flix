@@ -1,0 +1,43 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  text-align:center;
+  background-image: url('https://thumbs.dreamstime.com/t/o-fundo-da-arte-abstrato-preto-vermelho-drapeja-o-estilo-do-movimento-do-cinema-55213735.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: black;
+  margin: 0 0 5px;
+  font-family: Helvetica;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+  color: pink
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+ 
+}
+
+body > img {
+  margin: 0 10px;
+}
